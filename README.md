@@ -41,7 +41,7 @@ Clonar el repositorio:
 
 bash
 Copiar código
-git clone https://github.com/tu_usuario/comic_book_app.git
+git clone https://github.com/shanexon98/comic_book_app.git
 cd comic_book_app
 Instalar las dependencias:
 Ejecuta el siguiente comando para instalar todas las dependencias requeridas por el proyecto:
