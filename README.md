@@ -1,4 +1,4 @@
-![Screenshot_1724204606](https://github.com/user-attachments/assets/fedf9063-96f0-4004-9dda-4e447212a907)# comic_app
+# comic_app
 
 # Comic Book Application
 
